@@ -1,0 +1,18 @@
+body
+{
+    background-color:#02E6FF;
+    color:black;
+    font-family:sans-serif;
+}
+h1, h4{
+   font-size:28px; 
+   font-weight: bold;
+   text-align:center;
+}
+img{
+    width:150px;
+    height:100px;
+}
+.bob3{
+    font-size: 25px;
+}
